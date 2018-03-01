@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="X:\Downloads\Hashcode2018-master (1)\Hashcode2018-master\src\ride.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="X:\Downloads\Hashcode2018-master (1)\Hashcode2018-master\include\ride.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="X:\Downloads\Hashcode2018-master (1)\Hashcode2018-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0BFF9150-107F-381E-9971-22B6DC8E6B1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F8251FB4-E423-3DA7-8C9D-52FBF72AD199}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
