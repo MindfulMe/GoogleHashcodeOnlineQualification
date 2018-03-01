@@ -1,0 +1,4 @@
+﻿  Building Custom Rule X:/Downloads/Hashcode2018-master (1)/Hashcode2018-master/CMakeLists.txt
+  CMake does not need to re-run because X:/.gradle/build/CMakeFiles/generate.stamp is up-to-date.
+  parser.cpp
+  parser.vcxproj -> X:\.gradle\build\Debug\parser.lib
